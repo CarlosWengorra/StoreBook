@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "name": "HTML",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, suscipit!",
+        "price": 50,
+        "category": "Free",
+        "image": "https://img.freepik.com/vector-gratis/ilustracion-pila-libros-diseno-plano-dibujado-mano_23-2149341898.jpg?t=st=1716823381~exp=1716826981~hmac=454ff6c18046806850c1fee585a37117a8c3a301e3bb29943021ea67d927da6b&w=1380"
+    },
+    {
+        "id": "2",
+        "name": "CSS",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, suscipit!",
+        "price": 50,
+        "category": "Free",
+        "image": "https://img.freepik.com/vector-gratis/ilustracion-pila-libros-diseno-plano-dibujado-mano_23-2149341898.jpg?t=st=1716823381~exp=1716826981~hmac=454ff6c18046806850c1fee585a37117a8c3a301e3bb29943021ea67d927da6b&w=1380"
+    },
+    {
+        "id": "3",
+        "name": "JavaScript",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, suscipit!",
+        "price": 60,
+        "category": "Free",
+        "image": "https://img.freepik.com/vector-gratis/ilustracion-pila-libros-diseno-plano-dibujado-mano_23-2149341898.jpg?t=st=1716823381~exp=1716826981~hmac=454ff6c18046806850c1fee585a37117a8c3a301e3bb29943021ea67d927da6b&w=1380"
+    },
+    {
+        "id": "4",
+        "name": "TypeScript",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, suscipit!",
+        "price": 60,
+        "category": "Free",
+        "image": "https://img.freepik.com/vector-gratis/ilustracion-pila-libros-diseno-plano-dibujado-mano_23-2149341898.jpg?t=st=1716823381~exp=1716826981~hmac=454ff6c18046806850c1fee585a37117a8c3a301e3bb29943021ea67d927da6b&w=1380"
+    },
+    {
+        "id": "5",
+        "name": "MySQL",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, suscipit!",
+        "price": 70,
+        "category": "Free",
+        "image": "https://img.freepik.com/vector-gratis/ilustracion-pila-libros-diseno-plano-dibujado-mano_23-2149341898.jpg?t=st=1716823381~exp=1716826981~hmac=454ff6c18046806850c1fee585a37117a8c3a301e3bb29943021ea67d927da6b&w=1380"
+    },
+    {
+        "id": "6",
+        "name": "MongoDB",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, suscipit!",
+        "price": 70,
+        "category": "mongodb",
+        "image": "https://img.freepik.com/vector-gratis/ilustracion-pila-libros-diseno-plano-dibujado-mano_23-2149341898.jpg?t=st=1716823381~exp=1716826981~hmac=454ff6c18046806850c1fee585a37117a8c3a301e3bb29943021ea67d927da6b&w=1380"
+    },
+    {
+        "id": "7",
+        "name": "Node JS",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, suscipit!",
+        "price": 80,
+        "category": "nodejs",
+        "image": "https://img.freepik.com/vector-gratis/ilustracion-pila-libros-diseno-plano-dibujado-mano_23-2149341898.jpg?t=st=1716823381~exp=1716826981~hmac=454ff6c18046806850c1fee585a37117a8c3a301e3bb29943021ea67d927da6b&w=1380"
+    },
+    {
+        "id": "8",
+        "name": "AWS",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, suscipit!",
+        "price": 90,
+        "category": "aws",
+        "image": "https://img.freepik.com/vector-gratis/ilustracion-pila-libros-diseno-plano-dibujado-mano_23-2149341898.jpg?t=st=1716823381~exp=1716826981~hmac=454ff6c18046806850c1fee585a37117a8c3a301e3bb29943021ea67d927da6b&w=1380"
+    },
+    {
+        "id": "9",
+        "name": "Full Stack",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, suscipit!",
+        "price": 100,
+        "category": "fullstack",
+        "image": "https://img.freepik.com/vector-gratis/ilustracion-pila-libros-diseno-plano-dibujado-mano_23-2149341898.jpg?t=st=1716823381~exp=1716826981~hmac=454ff6c18046806850c1fee585a37117a8c3a301e3bb29943021ea67d927da6b&w=1380"
+    },
+    {
+        "id": "10",
+        "name": "Front End",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, suscipit!",
+        "price": 90,
+        "category": "frontend",
+        "image": "https://img.freepik.com/vector-gratis/ilustracion-pila-libros-diseno-plano-dibujado-mano_23-2149341898.jpg?t=st=1716823381~exp=1716826981~hmac=454ff6c18046806850c1fee585a37117a8c3a301e3bb29943021ea67d927da6b&w=1380"
+    },
+    {
+        "id": "11",
+        "name": "Back End",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, suscipit!",
+        "price": 90,
+        "category": "backend",
+        "image": "https://img.freepik.com/vector-gratis/ilustracion-pila-libros-diseno-plano-dibujado-mano_23-2149341898.jpg?t=st=1716823381~exp=1716826981~hmac=454ff6c18046806850c1fee585a37117a8c3a301e3bb29943021ea67d927da6b&w=1380"
+    }
+]
