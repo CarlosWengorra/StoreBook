@@ -1,4 +1,4 @@
-# MERN Project
+# BookStore Project
 
 This is a full-stack project developed with MongoDB, Express, React, and Node.js.
 
